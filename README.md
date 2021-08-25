@@ -10,3 +10,9 @@ Flysky fs-i6 transceiver 6 channels, arduino nano, l298 driver module, lipo batt
 ![alt text](https://github.com/jenizar/interface-arduino-to-flysky-fs-i6-transceiver/blob/main/Screenshot2.jpg)
 
 ![alt text](https://github.com/jenizar/interface-arduino-to-flysky-fs-i6-transceiver/blob/main/Screenshot3.jpg)
+
+references:
+
+1. https://youtu.be/Pcct-0RmcZE
+2. https://youtu.be/MYBgVgIaSOU
+3. https://youtu.be/v_N5HmXmDyk
